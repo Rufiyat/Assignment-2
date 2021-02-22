@@ -48,13 +48,6 @@
     margin-bottom: 30px;
 }
 
-hr{
-    width:10%;
-    height:10px;
-    background: linear-gradient(to right, orange 0%, #FF9C35 100%);
-    margin-bottom: 50px;
-}
-
 .categories .card{
     margin-top: 30px;
 }
