@@ -1,0 +1,35 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.bg-light{
+    background-color: white;
+}
+
+.navbar-bg{
+    background-color: white;
+}
+
+.carousel-bg{
+    background-image: url(Images/bg-2.png);
+    background-repeat: no-repeat;
+}
+
+.banner-img-bg{
+    background-size: contain;
+    background-image: url(Images/bg-1.png);
+    background-repeat: no-repeat;
+}
+
+.see-all{
+    color: #FF9D00;
+}
+
+.buy-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
