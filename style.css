@@ -33,3 +33,28 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.col-md-3{
+    margin: 10px;
+}
+
+.cat-card{
+    margin-bottom: 30px;
+}
+
+hr{
+    width:10%;
+    height:10px;
+    background: linear-gradient(to right, orange 0%, #FF9C35 100%);
+    margin-bottom: 50px;
+}
+
+.categories .card{
+    margin-top: 30px;
+}
